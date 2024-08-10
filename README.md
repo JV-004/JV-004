@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JV-004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=JV-004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -34,6 +30,9 @@
 
 ###
 
+<h4 align="left">Discordapp.com/users/897974428934234203 || www.linkedin.com/in/joão-vittor-fontes-603488288</h4>
+
+###
 <div align="left">
   <a href="http://discord.com/897974428934234203" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
